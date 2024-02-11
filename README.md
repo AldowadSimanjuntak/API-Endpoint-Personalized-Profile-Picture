@@ -72,6 +72,12 @@ The API will be accessible at http://localhost:8080
 
 You can customize the configuration by updating the `config/config.go` file with your PostgreSQL database URL and secret key.
 
-## Contribution
 
-You can create a pull request for improve this project
+## Contribution
+Feel free to explore the codebase and documentation to gain a deeper understanding of the project.
+
+For any questions or further information, please reach out me
+
+Thank you for visiting the repository!
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
