@@ -42,9 +42,9 @@ To get started with this project, follow the instructions below.
 1. **Clone this repository:**
 
    ```
-   git clone
+   git clone https://github.com/AldowadSimanjuntak/API-Endpoint-Personalized-Profile-Picture
 ### Change to the project directory:
-    cd 
+    cd API-Endpoint-Personalized-Profile-Picture
 
 ### Install project dependencies:
 Use [Go modules](https://golang.org/ref/mod) to install project dependencies.
@@ -52,7 +52,8 @@ Use [Go modules](https://golang.org/ref/mod) to install project dependencies.
 ### Run the project:
     go run app/main.go
 
-The API will be accessible at http://localhost:8080
+### The API will be accessible at 
+    http://localhost:8080
 
 ## Usage
 
