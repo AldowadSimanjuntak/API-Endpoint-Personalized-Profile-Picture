@@ -75,10 +75,8 @@ You can customize the configuration by updating the `config/config.go` file with
 
 
 ## Contribution
-Feel free to explore the codebase and documentation to gain a deeper understanding of the project.
-
-For any questions or further information, please reach out me
-
+Feel free to explore the codebase and documentation to gain a deeper understanding of the project.
+For any questions or further information, please reach out me
 Thank you for visiting the repository!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
